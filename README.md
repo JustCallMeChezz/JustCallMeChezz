@@ -2,7 +2,7 @@
 
 ---
 
-## ✮ Hello World! 🧀
+## ✮ Hello World! 🧀✨️
 
 > Im lily or also known as `sleepychezz` or just `Chezz`. i still learning on programming... My fav programming languages are **CSS**, **JavaScript**, and **C/C++**. uh... im lazy to write more...
 
