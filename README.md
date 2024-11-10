@@ -31,7 +31,7 @@
 ### 𐔌 ⋮ Fun Facts  .ᐟ  ֹ    ꒱
 
 - I'm always **sleepy**... thats why mostly of my username that i use is `sleepychezz` .-.
-- I **love cheese**, which is why my name is `Chezz` 🧀  
+- I rily ii **lovee cheese**, which is why my name is `Chezz` 🧀  
 - I'm a **front-end developer**, but also learning backend things like **Node.js**... because...? because yes :D
 
 ---
