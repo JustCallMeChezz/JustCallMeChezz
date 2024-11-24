@@ -2,7 +2,7 @@
   <img src="https://justcallmechezz.github.io/cheese.png" alt="Cheese" width="150"/>
 </p>
 
-# ⋅˚₊‧ ୨ about me ୧ ‧₊˚ ⋅
+<h1 align="center">⋅˚₊‧ ୨ about me ୧ ‧₊˚ ⋅</h1>
 
 ---
 
