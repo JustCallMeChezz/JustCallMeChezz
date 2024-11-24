@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+Dev;sleepychezz)](https://git.io/typing-svg)
+
 <p align="center">
   <img src="https://justcallmechezz.github.io/cheese.png" alt="Cheese" width="150"/>
 </p>
