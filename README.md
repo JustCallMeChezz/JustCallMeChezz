@@ -1,6 +1,4 @@
-![Cheese](https://justcallmechezz.github.io/cheese.png)
-
----
+<img src="https://justcallmechezz.github.io/cheese.png" alt="Cheese" width="150"/>
 
 # ⋅˚₊‧ ୨ about me ୧ ‧₊˚ ⋅
 
