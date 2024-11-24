@@ -1,4 +1,6 @@
-<img src="https://justcallmechezz.github.io/cheese.png" alt="Cheese" width="150"/>
+<div style="text-align: center;">
+  <img src="https://justcallmechezz.github.io/cheese.png" alt="Cheese" width="150"/>
+</div>
 
 # ⋅˚₊‧ ୨ about me ୧ ‧₊˚ ⋅
 
