@@ -67,6 +67,8 @@
 
 ---
 
+  ![Snake animation](https://github.com/JustCallMeChezz/JustCallMeChezz/blob/output/github-contribution-grid-snake.svg)
+
 thats all cuz idk what more should i put here...
 
 ---
