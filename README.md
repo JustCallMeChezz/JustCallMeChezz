@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+Dev;sleepychezz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFEA9B&center=true&width=435&lines=sleepychezz.;Front-end+Dev)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://justcallmechezz.github.io/cheese.png" alt="Cheese" width="150"/>
