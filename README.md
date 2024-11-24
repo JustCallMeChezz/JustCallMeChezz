@@ -1,3 +1,7 @@
+![Cheese](https://justcallmechezz.github.io/cheese.png)
+
+---
+
 # ⋅˚₊‧ ୨ about me ୧ ‧₊˚ ⋅
 
 ---
