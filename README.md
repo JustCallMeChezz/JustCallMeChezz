@@ -42,7 +42,7 @@
 
 - I'm always **sleepy**... thats why mostly of my username that i use is `sleepychezz` .-.
 - I rily ii **lovee cheese**, which is why my name is `Chezz` 🧀  
-- I'm a **front-end developer**, but also learning backend things... because...? because yes :D
+- I'm a **front-end developer**... ig... but also learning backend things... because...? because yes :D
 
 ---
 
