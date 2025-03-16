@@ -41,8 +41,8 @@
 ### 𐔌 ⋮ Fun Facts  .ᐟ  ֹ    ꒱
 
 - I'm always **sleepy**... thats why mostly of my username that i use is `sleepychezz` .-.
-- I rily ii **lovee cheese**, which is why my name is `Chezz` 🧀  
-- I wear **glasses** cuz i want to C#
+- I rily ii **lovee cheese**, which is why my name is **Chezz** 🧀  
+- I wear **glasses**... cuz i want to **C#**
 - I'm a **front-end developer**... ig... but also learning backend things... because...? because yes :D
 
 ---
