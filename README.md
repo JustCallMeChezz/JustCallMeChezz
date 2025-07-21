@@ -59,9 +59,11 @@
 
 ---
 
-### 𐔌 ⋮ Most Used Languages .ᐟ  ֹ    ꒱
+<h3 align="center">𐔌 ⋮ Most Used Languages .ᐟ ֹ ꒱</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustCallMeChezz&hide=html&layout=compact&theme=radical&bg_color=F2EBE7&text_color=4A3626&icon_color=B07255&border_color=F7C6A1&title_color=4A3626)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustCallMeChezz&hide=html&layout=compact&theme=radical&bg_color=F5F0FA&text_color=4E3E63&title_color=4E3E63&border_color=D9C8F0&icon_color=BAA0DD" width="500">
+</p>
 
 ---
 
