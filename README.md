@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustCallMeChezz&theme=default&hide_border=false&background=F5F0FA&ring=D9C8F0&fire=BAA0DD&currStreakLabel=4E3E63&sideLabels=4E3E63&dates=4E3E63" width="500">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustCallMeChezz&theme=default&hide_border=false&background=F5F0FA&ring=D9C8F0&fire=BAA0DD&currStreakLabel=4E3E63&sideLabels=4E3E63&dates=4E3E63&border=D9C8F0" width="500">
 </p>
 
 ---
