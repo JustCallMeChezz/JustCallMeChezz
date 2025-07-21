@@ -67,13 +67,25 @@
 
 ---
 
-### 𐔌 ⋮ Connect with Me .ᐟ  ֹ    ꒱
+<h3 align="center">𐔌 ⋮ Connect with Me .ᐟ ֹ ꒱</h3>
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@chezzy_lily)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JustCallMeChezz)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CSc32EpttY)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chezzy_lily)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sleepychezz)
+<p align="center">
+  <a href="https://youtube.com/@chezzy_lily">
+    <img src="https://img.shields.io/badge/YouTube-FF8FA3?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://github.com/JustCallMeChezz">
+    <img src="https://img.shields.io/badge/GitHub-BEAFC2?style=for-the-badge&logo=github&logoColor=4E3E63"/>
+  </a>
+  <a href="https://discord.gg/CSc32EpttY">
+    <img src="https://img.shields.io/badge/Discord-C5B8F2?style=for-the-badge&logo=discord&logoColor=4E3E63"/>
+  </a>
+  <a href="https://instagram.com/chezzy_lily">
+    <img src="https://img.shields.io/badge/Instagram-FCCFEA?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@sleepychezz">
+    <img src="https://img.shields.io/badge/TikTok-E9D7F8?style=for-the-badge&logo=tiktok&logoColor=4E3E63"/>
+  </a>
+</p>
 
 ---
 
