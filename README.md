@@ -50,7 +50,7 @@
 <h3 align="center">𐔌 ⋮ My Stats  .ᐟ ֹ ꒱</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustCallMeChezz&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical&bg_color=F5F0FA&text_color=4E3E63&icon_color=BAA0DD&border_color=D9C8F0&ring_color=D9C8F0" width="500">
+  <img src="https://github-readme-stats.vercel.app/api?username=JustCallMeChezz&show_icons=true&hide_title=true&count_private=true&theme=radical&bg_color=F5F0FA&text_color=4E3E63&icon_color=BAA0DD&border_color=D9C8F0&ring_color=D9C8F0" width="500">
 </p>
 
 <p align="center">
