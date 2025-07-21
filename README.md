@@ -49,11 +49,11 @@
 
 ### 𐔌 ⋮ My Stats  .ᐟ  ֹ    ꒱
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustCallMeChezz&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical&bg_color=F9F5F1&text_color=5C3B2E&icon_color=D2A79F&border_color=EBD8CE&ring_color=EBD8CE)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustCallMeChezz&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical&bg_color=F5F0FA&text_color=4E3E63&icon_color=BAA0DD&border_color=D9C8F0&ring_color=D9C8F0)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=JustCallMeChezz&theme=default&hide_border=false&background=F9F5F1&ring=EBD8CE&fire=EBD8CE&currStreakLabel=5C3B2E&sideLabels=5C3B2E&dates=5C3B2E)
+![](https://github-readme-streak-stats.herokuapp.com/?user=JustCallMeChezz&theme=default&hide_border=false&background=F5F0FA&ring=D9C8F0&fire=BAA0DD&currStreakLabel=4E3E63&sideLabels=4E3E63&dates=4E3E63)
 
-[![](https://visitcount.itsvg.in/api?id=JustCallMeChezz&label=Profile%20Views&color=11&icon=2&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=JustCallMeChezz&label=Profile%20Views&color=14&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ---
 
