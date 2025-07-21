@@ -32,7 +32,7 @@
 
 - Web Development  
 - **UI Designing**  
-- [Artificial Intelligence](https://justcallmechezz.github.io/chatbot/chatbot.html)  
+- [Artificial Intelligence](https://justcallmechezz.github.io/lylium)  
 - [Open Source Contribution](https://guthib.com)  
 - Animating & Editing  
 
