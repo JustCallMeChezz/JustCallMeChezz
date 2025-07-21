@@ -70,21 +70,11 @@
 <h3 align="center">𐔌 ⋮ Connect with Me .ᐟ ֹ ꒱</h3>
 
 <p align="center">
-  <a href="https://youtube.com/@chezzy_lily">
-    <img src="https://img.shields.io/badge/YouTube-FF8FA3?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://github.com/JustCallMeChezz">
-    <img src="https://img.shields.io/badge/GitHub-BEAFC2?style=for-the-badge&logo=github&logoColor=4E3E63"/>
-  </a>
-  <a href="https://discord.gg/CSc32EpttY">
-    <img src="https://img.shields.io/badge/Discord-C5B8F2?style=for-the-badge&logo=discord&logoColor=4E3E63"/>
-  </a>
-  <a href="https://instagram.com/chezzy_lily">
-    <img src="https://img.shields.io/badge/Instagram-FCCFEA?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.tiktok.com/@sleepychezz">
-    <img src="https://img.shields.io/badge/TikTok-E9D7F8?style=for-the-badge&logo=tiktok&logoColor=4E3E63"/>
-  </a>
+  <a href="https://youtube.com/@chezzy_lily"><img src="https://img.shields.io/badge/YouTube-FF8FA3?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://github.com/JustCallMeChezz"><img src="https://img.shields.io/badge/GitHub-BEAFC2?style=for-the-badge&logo=github&logoColor=4E3E63"/></a>
+  <a href="https://discord.gg/CSc32EpttY"><img src="https://img.shields.io/badge/Discord-C5B8F2?style=for-the-badge&logo=discord&logoColor=4E3E63"/></a>
+  <a href="https://instagram.com/chezzy_lily"><img src="https://img.shields.io/badge/Instagram-FCCFEA?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@sleepychezz"><img src="https://img.shields.io/badge/TikTok-E9D7F8?style=for-the-badge&logo=tiktok&logoColor=4E3E63"/></a>
 </p>
 
 ---
