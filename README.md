@@ -12,7 +12,7 @@
 
 ---
 
-## ✮ Hello World! 🧀✨️
+## ꒦꒷ ૮꒰ ˶ᵕ ༚ ᵕ˶ ꒱ა ʜᴇʟʟᴏ ᴡᴏʀʟᴅ! 🧀✨️ ꒷꒦
 
 > Im lily or also known as `sleepychezz` or just `Chezz`. im a `front-end dev`. i still learning on programming... My fav programming languages are **CSS**, **JavaScript**, and **C/C++**. uh... im lazy to write more...
 
