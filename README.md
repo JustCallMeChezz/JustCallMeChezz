@@ -23,7 +23,7 @@
 - **Name:** Lily Liyana | Chezz  
 - **Age:** Shh... its secretss 
 - **Gender:** Girl/female ♡  
-- **Nationality:** Malaysian  
+- **From:** Earth  
 - **Likes:** 🧀 Cheese!
 
 ---
