@@ -70,11 +70,11 @@
 <p align="center">₊˚⊹ᰔ</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustCallMeChezz&show_icons=true&hide_title=true&count_private=true&theme=radical&bg_color=F5F0FA&text_color=4E3E63&icon_color=BAA0DD&border_color=D9C8F0&ring_color=D9C8F0" width="500">
+  <img src="https://github-readme-stats.vercel.app/api?username=JustCallMeChezz&show_icons=true&hide_title=true&count_private=true&theme=radical&bg_color=F5F0FA&text_color=4E3E63&icon_color=BAA0DD&border_color=D9C8F0&ring_color=D9C8F0" width="300">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustCallMeChezz&theme=default&hide_border=false&background=F5F0FA&ring=D9C8F0&fire=BAA0DD&currStreakLabel=4E3E63&sideLabels=4E3E63&dates=4E3E63&border=D9C8F0" width="500">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustCallMeChezz&theme=default&hide_border=false&background=F5F0FA&ring=D9C8F0&fire=BAA0DD&currStreakLabel=4E3E63&sideLabels=4E3E63&dates=4E3E63&border=D9C8F0" width="300">
 </p>
 
 <p align="center">✧·· ᡣ𐭩 ·· ✧</p>
@@ -84,7 +84,7 @@
 <p align="center">ᰔ ₊˚⊹</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustCallMeChezz&hide=html&layout=compact&theme=radical&bg_color=F5F0FA&text_color=4E3E63&title_color=4E3E63&border_color=D9C8F0&icon_color=BAA0DD" width="500">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustCallMeChezz&hide=html&layout=compact&theme=radical&bg_color=F5F0FA&text_color=4E3E63&title_color=4E3E63&border_color=D9C8F0&icon_color=BAA0DD" width="250">
 </p>
 
 <p align="center">𖦹 ·· ᡣ𐭩 ·· ✧</p>
