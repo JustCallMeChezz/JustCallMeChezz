@@ -24,7 +24,7 @@
 
 ### ୨୧ ˙ʚ hello world ɞ˙ ୨୧
 
-> im lily or also known as `sleepychezz` or just `Chezz`. im a `front-end dev`. still learning programming. fav languages: JavaScript and C++. lazy to write more ·· ✧
+> Im lily or also known as `sleepychezz` or just `Chezz`. im a `front-end dev`. i still learning on programming... My fav programming languages are **CSS**, **JavaScript**, and **C/C++**. uh... im lazy to write more...   ·· ✧
 
 <p align="center">
   ✧·· ᰔ ₊˚⊹ ·· ✧
@@ -34,11 +34,11 @@
 
 <p align="center">ᡣ𐭩 · · ─ ·ʚɞ· ─ · ·</p>
 
-- Name: Lily Liyana | Chezz  
-- Age: shh… secret  
-- Gender: girl/female  
-- From: earth  
-- Likes: cheese
+- **Name:** Lily Liyana | Chezz    
+- **Age:** Shh... its secretss   
+- **Gender:** Girl/female ♡    
+- **From:** Earth    
+- **Likes:** 🧀 Cheese!  
 
 <p align="center">· · 𖦹 ·· ✧</p>
 
@@ -58,10 +58,10 @@
 
 <p align="center">ᰔ ᡣ𐭩 𖦹</p>
 
-- always sleepy, hence username sleepychezz  
-- love cheese, name inspired by it  
-- wear glasses… cuz want to C#  
-- front-end dev learning backend too… why? because yes ·· ✧
+- I'm always **sleepy**... thats why mostly of my username that i use is **sleepychezz** .-.  
+- I rily ii **lovee cheese**, which is why my name is **Chezz** 🧀    
+- I wear **glasses**... cuz i want to **C#**  
+- I'm a **front-end developer**... ig... but also learning **backend** things... because...? because yes :D   ·· ✧
 
 <p align="center">ᡣ𐭩 · · ✧·· 𖦹</p>
 
