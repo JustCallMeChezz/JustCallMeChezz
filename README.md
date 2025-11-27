@@ -1,7 +1,7 @@
 <p align="center">
   ᡣ𐭩 𖦹  
   <br>
-  <img src="https://justcallmechezz.github.io/cheese.png" alt="Cheese" width="150"/>  
+  <img src="https://justcallmechezz.github.io/cheese.png" alt="cheese" width="150"/>  
   <br>
   ₊˚⊹ ᰔ
 </p>
@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=C9B7F5&center=true&vCenter=true&width=435&lines=sleepychezz.;Front-end+Dev;%3C3)](https://justcallmechezz.github.io)
 
 </div>
@@ -24,48 +24,48 @@
 
 ### ୨୧ ˙ʚ hello world ɞ˙ ୨୧
 
-> Im lily or also known as `sleepychezz` or just `Chezz`. im a `front-end dev`. i still learning on programming... My fav programming languages are **CSS**, **JavaScript**, and **C/C++**. uh... im lazy to write more...   ·· ✧
+> im lily or also known as `sleepychezz` or just `chezz`. im a `front-end dev`. i still learning on programming... my fav programming languages are **javascript**, and **c++**. uh... im lazy to write more...   ·· ✧
 
 <p align="center">
   ✧·· ᰔ ₊˚⊹ ·· ✧
 </p>
 
-### 𐔌 ⋮ Some Info ·· ✧
+### 𐔌 ⋮ some info ·· ✧
 
 <p align="center">ᡣ𐭩 · · ─ ·ʚɞ· ─ · ·</p>
 
-- **Name:** Lily Liyana | Chezz    
-- **Age:** Shh... its secretss   
-- **Gender:** Girl/female ♡    
-- **From:** Earth    
-- **Likes:** 🧀 Cheese!  
+- **name:** lily liyana | chezz      
+- **age:** shh... its secretss     
+- **gender:** girl/female ♡      
+- **from:** earth      
+- **likes:** 🧀 cheese!    
 
 <p align="center">· · 𖦹 ·· ✧</p>
 
-### 𐔌 ⋮ Interests ·· ✧
+### 𐔌 ⋮ interests ·· ✧
 
 <p align="center">₊˚⊹ · · ᰔ</p>
 
-- web development  
-- ui designing  
-- [artificial intelligence](https://justcallmechezz.github.io/lylium)  
-- [open source contribution](https://guthib.com)  
-- animating & editing  
+- web development    
+- ui designing    
+- [artificial intelligence](https://justcallmechezz.github.io/lylium)    
+- [open source contribution](https://guthib.com)    
+- animating & editing    
 
 <p align="center">· · ₊˚⊹ ·· ✧</p>
 
-### 𐔌 ⋮ Fun Facts ·· ✧
+### 𐔌 ⋮ fun facts ·· ✧
 
 <p align="center">ᰔ ᡣ𐭩 𖦹</p>
 
-- I'm always **sleepy**... thats why mostly of my username that i use is **sleepychezz** .-.  
-- I rily ii **lovee cheese**, which is why my name is **Chezz** 🧀    
-- I wear **glasses**... cuz i want to **C#**  
-- I'm a **front-end developer**... ig... but also learning **backend** things... because...? because yes :D   ·· ✧
+- i'm always **sleepy**... thats why mostly of my username that i use is **sleepychezz** .-.    
+- i rily ii **lovee cheese**, which is why my name is **chezz** 🧀      
+- i wear **glasses**... cuz i want to **c#**    
+- i'm a **front-end developer**... ig... but also learning **backend** things... because...? because yes :d   ·· ✧
 
 <p align="center">ᡣ𐭩 · · ✧·· 𖦹</p>
 
-<h3 align="center">𐔌 ⋮ My Stats ·· ✧</h3>
+<h3 align="center">𐔌 ⋮ my stats ·· ✧</h3>
 
 <p align="center">₊˚⊹ᰔ</p>
 
@@ -79,7 +79,7 @@
 
 <p align="center">✧·· ᡣ𐭩 ·· ✧</p>
 
-<h3 align="center">𐔌 ⋮ Most Used Languages ·· ✧</h3>
+<h3 align="center">𐔌 ⋮ most used languages ·· ✧</h3>
 
 <p align="center">ᰔ ₊˚⊹</p>
 
@@ -89,22 +89,20 @@
 
 <p align="center">𖦹 ·· ᡣ𐭩 ·· ✧</p>
 
-<h3 align="center">𐔌 ⋮ Connect with Me ·· ✧</h3>
+<h3 align="center">𐔌 ⋮ connect with me ·· ✧</h3>
 
 <p align="center">ᡣ𐭩₊˚⊹ᰔ</p>
 
 <p align="center">
-  <a href="https://youtube.com/@chezzy_lily"><img src="https://img.shields.io/badge/YouTube-FF8FA3?style=for-the-badge&logo=youtube&logoColor=white"/></a>  
-  <a href="https://github.com/JustCallMeChezz"><img src="https://img.shields.io/badge/GitHub-BEAFC2?style=for-the-badge&logo=github&logoColor=4E3E63"/></a>  
-  <a href="https://discord.gg/CSc32EpttY"><img src="https://img.shields.io/badge/Discord-C5B8F2?style=for-the-badge&logo=discord&logoColor=4E3E63"/></a>  
-  <a href="https://instagram.com/chezzy_lily"><img src="https://img.shields.io/badge/Instagram-FCCFEA?style=for-the-badge&logo=instagram&logoColor=white"/></a>  
-  <a href="https://www.tiktok.com/@sleepychezz"><img src="https://img.shields.io/badge/TikTok-E9D7F8?style=for-the-badge&logo=tiktok&logoColor=4E3E63"/></a>  
+  <a href="https://youtube.com/@chezzy_lily"><img src="https://img.shields.io/badge/YouTube-FF8FA3?style=for-the-badge&logo=youtube&logoColor=white"/></a>    
+  <a href="https://github.com/JustCallMeChezz"><img src="https://img.shields.io/badge/GitHub-BEAFC2?style=for-the-badge&logo=github&logoColor=4E3E63"/></a>    
+  <a href="https://discord.gg/CSc32EpttY"><img src="https://img.shields.io/badge/Discord-C5B8F2?style=for-the-badge&logo=discord&logoColor=4E3E63"/></a>    
+  <a href="https://instagram.com/chezzy_lily"><img src="https://img.shields.io/badge/Instagram-FCCFEA?style=for-the-badge&logo=instagram&logoColor=white"/></a>    
+  <a href="https://www.tiktok.com/@sleepychezz"><img src="https://img.shields.io/badge/TikTok-E9D7F8?style=for-the-badge&logo=tiktok&logoColor=4E3E63"/></a>    
 </p>
 
 <p align="center">✧·· ᰔ ·· ✧</p>
 
-  ![Snake animation](https://github.com/JustCallMeChezz/JustCallMeChezz/blob/output/github-contribution-grid-snake.svg)
-
-thats all cuz idk what more should i put here...
+![snake animation](https://github.com/JustCallMeChezz/JustCallMeChezz/blob/output/github-contribution-grid-snake.svg)
 
 > **(⸝⸝ᴗ﹏ᴗ⸝⸝) ᶻ 𝗓 𐰁**
