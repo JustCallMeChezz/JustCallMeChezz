@@ -86,3 +86,14 @@ thats all cuz idk what more should i put here...
 ---
 
 > **(⸝⸝ᴗ﹏ᴗ⸝⸝) ᶻ 𝗓 𐰁**
+
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="60">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Short+Stack&display=swap');
+    .title { font-family: 'Short Stack', cursive; font-size: 22px; fill: #C9B7F5; }
+    .decoration { font-family: 'Short Stack', cursive; font-size: 18px; fill: #E3D6F8; }
+  </style>
+  <text x="50%" y="30%" text-anchor="middle" class="decoration">₊˚⊹ · ·</text>
+  <text x="50%" y="55%" text-anchor="middle" class="title">interests</text>
+  <text x="50%" y="80%" text-anchor="middle" class="decoration">· · ₊˚⊹</text>
+</svg>
