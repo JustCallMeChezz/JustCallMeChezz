@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=A06F62&center=true&vCenter=true&width=435&lines=sleepychezz.;Front-end+Dev;%3C3)](https://justcallmechezz.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F8C2B2&center=true&vCenter=true&width=435&lines=sleepychezz.;Front-end+Dev;%3C3)](https://justcallmechezz.github.io)
 
 </div>
 
